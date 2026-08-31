@@ -578,10 +578,14 @@ This project is released under the [MIT License](LICENSE).
 If you use this code or build on this work, please cite:
 
 ```bibtex
-@inproceedings{koubeissy2026fewshottabllm,
-  title     = {Few-Shot LLMs as Synthetic Tabular Data Generators},
-  author    = {Koubeissy, Hadi and El Khoury, Michel and Kamradt, Marc and Makhoul, Abdallah},
-  booktitle = {IEEE Annual Computers, Software, and Applications Conference (COMPSAC)},
-  year      = {2026}
-}
+@INPROCEEDINGS{koubeissy2026fewshottabllm,
+  author={Koubeissy, Hadi and El Khoury, Michel and Kamradt, Marc and Makhoul, Abdallah},
+  booktitle={2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)}, 
+  title={Few-Shot LLMs as Synthetic Tabular Data Generators}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={52-62},
+  keywords={Modeling;Printing;Privacy;Synthetic data;Training;Pediatrics;Large language models;Data collection;Tuning;Machine learning;Synthetic tabular data;LLMs;Few-shot data generation;Training-free data generation;Generative tabular data},
+  doi={10.1109/COMPSAC69091.2026.00019}}
 ```
